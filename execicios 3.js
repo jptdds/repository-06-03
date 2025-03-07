@@ -5,7 +5,7 @@
 
 // var para nomes
 
-var = "JP"
+var nome = "JP"
 var uc = "SENAI"
 
 let nota1 = 5;
@@ -15,7 +15,7 @@ let total = nota1 + nota2 + nota3;
 let totalMedia = total /3
 
 if(totalMedia <=6 ) {
-    console.log(NamedNodeMap,"Sua nota foi pessima, você está reprovado!!!")
+    console.log(nome,"Sua nota foi pessima, você está reprovado!!!")
 
 }
 if(totalMedia >6.1 && totalMedia <8){
